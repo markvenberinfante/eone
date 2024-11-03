@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/eone/static/css/main.f855e6bc.css",
+    "main.js": "/eone/static/js/main.3b557ef3.js",
+    "static/js/453.e2d9953c.chunk.js": "/eone/static/js/453.e2d9953c.chunk.js",
+    "static/media/logo.svg": "/eone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/eone/index.html",
+    "main.f855e6bc.css.map": "/eone/static/css/main.f855e6bc.css.map",
+    "main.3b557ef3.js.map": "/eone/static/js/main.3b557ef3.js.map",
+    "453.e2d9953c.chunk.js.map": "/eone/static/js/453.e2d9953c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3b557ef3.js"
+  ]
+}
